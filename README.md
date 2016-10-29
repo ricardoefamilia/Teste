@@ -1,2 +1,2 @@
 # Teste
-Um repositório de teste
+Um repositório de teste, com atualização.
